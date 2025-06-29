@@ -4,8 +4,8 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 <p align="left">
 <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerpurple" />
-<img src="https://img.shields.io/badge/Languages-Spanish,_English,_French,_Euskera_&_German-af45bf" />
 <img src="https://img.shields.io/badge/Worked_with-United_States,_India_&_Europe-30d5c8" />
+<img src="https://img.shields.io/badge/Languages-Spanish,_English,_French,_Euskera_&_German-af45bf" />
 <img src="https://img.shields.io/badge/Road_Map-Always_learning-A084DC" />
 </p>
 
